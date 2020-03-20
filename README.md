@@ -1,5 +1,6 @@
 # attout
 
+A simple stata program to output bunches of psmatch2 results.
 If you have to run bunches of psmatch2 and output them, this will be a good choice instead of endless ctrl+c/ctrl+v. Meanwhile, you'd better use the loop i provided below. It will my pleasure to hear you advice.
 
 **Description：**
